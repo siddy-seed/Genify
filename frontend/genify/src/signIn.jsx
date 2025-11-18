@@ -37,8 +37,6 @@ const SignIn = () => {
         setLoading(false);
         return;
       }
-
-      navigate("/dashboard");
       setLoading(false);
       return;
     }
