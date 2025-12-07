@@ -1,0 +1,66 @@
+// Mock data for demonstration purposes
+export const mockHistoryData = [
+    {
+        id: '1',
+        imageUrl: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80',
+        prompt: 'A serene minimalist luxury skincare product on marble surface with soft natural lighting',
+        timestamp: '2024-12-07T15:30:00Z',
+        dimensions: '1024x1024',
+    },
+    {
+        id: '2',
+        imageUrl: 'https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&q=80',
+        prompt: 'Premium gold-accented cosmetic cream jar in elegant beige studio setting',
+        timestamp: '2024-12-07T14:15:00Z',
+        dimensions: '1024x1024',
+    },
+    {
+        id: '3',
+        imageUrl: 'https://images.unsplash.com/photo-1612817288484-6f916006741a?w=800&q=80',
+        prompt: 'Luxury skincare essence bottle with botanical elements and warm sunlight',
+        timestamp: '2024-12-07T12:45:00Z',
+        dimensions: '1024x1024',
+    },
+    {
+        id: '4',
+        imageUrl: 'https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&q=80',
+        prompt: 'Sophisticated minimal beauty product photography with sand-toned background',
+        timestamp: '2024-12-07T11:20:00Z',
+        dimensions: '1024x1024',
+    },
+    {
+        id: '5',
+        imageUrl: 'https://images.unsplash.com/photo-1615397349754-cfa2066a298e?w=800&q=80',
+        prompt: 'Elegant glass serum bottle with gold cap on creamy textured surface',
+        timestamp: '2024-12-07T10:00:00Z',
+        dimensions: '1024x1024',
+    },
+    {
+        id: '6',
+        imageUrl: 'https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=800&q=80',
+        prompt: 'Luxurious rose gold beauty product with soft focus botanical background',
+        timestamp: '2024-12-06T18:30:00Z',
+        dimensions: '1024x1024',
+    },
+    {
+        id: '7',
+        imageUrl: 'https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&q=80',
+        prompt: 'Premium face cream in minimalist packaging on warm beige marble',
+        timestamp: '2024-12-06T16:15:00Z',
+        dimensions: '1024x1024',
+    },
+    {
+        id: '8',
+        imageUrl: 'https://images.unsplash.com/photo-1556228841-a5d4b947e19c?w=800&q=80',
+        prompt: 'Sophisticated spa product arrangement with natural textures and soft shadows',
+        timestamp: '2024-12-06T14:00:00Z',
+        dimensions: '1024x1024',
+    },
+    {
+        id: '9',
+        imageUrl: 'https://images.unsplash.com/photo-1571875257727-256c39da42af?w=800&q=80',
+        prompt: 'High-end beauty serum with golden accents in luxury minimal setting',
+        timestamp: '2024-12-06T12:30:00Z',
+        dimensions: '1024x1024',
+    },
+];
